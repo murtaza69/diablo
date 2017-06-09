@@ -1,0 +1,6 @@
+.darkSwitch {
+  background: white;
+}
+.lightSwitch {
+  background: grey;
+}
